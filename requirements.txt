@@ -2,4 +2,3 @@ pyTelegramBotAPI
 requests
 pandas
 python-dateutil
-SQLite3
