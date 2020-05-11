@@ -1,6 +1,6 @@
 pyTelegramBotAPI
 requests
 pandas
-dateutil
+python-dateutil
 logging
 sqlite3
