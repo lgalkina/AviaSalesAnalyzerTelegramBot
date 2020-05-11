@@ -1,7 +1,7 @@
 # AviaSalesAnalyzerTelegramBot
 
 [Бот-аналитик](https://t.me/AviaSalesAnalyzerTelegramBot) цен авиабилетов по данным метапоисковика [aviasales.ru](https://www.aviasales.ru/).
-Предоставляет информацию о ценах на авиабилеты для городов России, используя [API](https://support.travelpayouts.com/hc/ru/articles/203956163-Aviasales-API-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0-%D0%B)
+Предоставляет информацию о ценах на авиабилеты для городов России, используя [API](https://support.travelpayouts.com/hc/ru/sections/201008338-API-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BE%D1%82-Aviasales)
 
 ## Файлы
 Файлы исходного кода:
