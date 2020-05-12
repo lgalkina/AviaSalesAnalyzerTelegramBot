@@ -41,8 +41,8 @@ class Parser:
             }
             response = requests.get(config.base_url + '/data/ru/cities.json', params=params)
             if response.ok:
-                data = pd.DataFrame(response.json())
-                if not data.empty:
+                __cities = pd.DataFrame(response.json())
+                if not __cities.empty:
                     self.__cities = data[['name', 'code', 'country_code']]
                     self.__cities = self.__cities[self.__cities.name.notnull() & (self.__cities.country_code == 'RU')]\
                         .sort_values(by='name')

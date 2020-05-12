@@ -3,6 +3,5 @@
 telegram_token = '1133561278:AAHoyxfKFQ0rbMTSCVxe9gmqRQe_TNDjtgo'
 access_token = '853dd0955c28ca442d0e588553639424'
 base_url = 'http://api.travelpayouts.com'
-iata_url = 'https://www.travelpayouts.com/widgets_suggest_params'
 in_work_pic = '/images/process.png'
 
